@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PO_2.Ciezarowka">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAACAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Ciezarowka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PO_2.Kontener">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgQCAAgAAAAAEAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kontener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PO_2.Magazyn">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAIAAAAAAAAAAIAAAAAAQAAAAAAAAAAAQAAAAQ=</HashCode>
+      <FileName>Magazyn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PO_2.Pociag">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAACAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Pociag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PO_2.Pojazd">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAQAAAAAAAAAAAIAgCAAAAAAAASITAAAQAAAAAA=</HashCode>
+      <FileName>Pojazd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PO_2.Statek">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAACAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Statek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PO_2.Symulacja">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAACEAAAAAAAAAAAAAgQIAAAAAAgAAEAAAIAA=</HashCode>
+      <FileName>Symulacja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PO_2.Towar">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Towar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PO_2.TypTowaru">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAEAAAAAAEAAQA=</HashCode>
+      <FileName>TypTowaru.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
